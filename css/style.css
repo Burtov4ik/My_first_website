@@ -8,7 +8,7 @@ body {
     bottom: 0;
     width: 100%;
     background-color: #f8f9fa;
-    padding: 20px;
+    padding: 10px;
     text-align: center;
     color: #08161e;
 }
@@ -61,3 +61,21 @@ body {
     flex-direction: column;
     align-items: center;
 }
+.button_js {
+    text-align: center;
+}
+
+#myButton {
+    border: none;
+    border-radius: 15px;
+    width: 150px;
+    height: 50px;
+    background-color: maroon;
+    color: aliceblue;
+    font-weight: bold;
+}
+#demo img{
+    margin-top: 20px;
+    width: 25%;
+}
+
